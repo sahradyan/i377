@@ -1,0 +1,10 @@
+#files to ignore
+*.class
+*.jar
+*.war
+*.ear
+/build
+/bin
+
+# Include
+!/lib/*.jar
